@@ -1,3 +1,7 @@
+# STILL UNDER DEVELOPMENT... 
+
+
+
 # NOTE: This is just a progress Report. Cool Stuff with Computer Vision Machine Learning libraries and aglos  will follow
 # [NOTE THIS CODE WAS NEVER OPTIMISED. MY MAIN AIM WAS TO MAKE THE PIXEL SORTER WORK]
 
