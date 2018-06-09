@@ -2,10 +2,10 @@
 
 
 
-# NOTE: This is just a progress Report. Cool Stuff with Computer Vision Machine Learning libraries and aglos  will follow
+# NOTE: This is just a progress Report. Cool Stuff with Computer Vision and Machine Learning libraries and aglos  will follow
 # [NOTE THIS CODE WAS NEVER OPTIMISED. MY MAIN AIM WAS TO MAKE THE PIXEL SORTER WORK]
 
-## Example Images [TODO LIST FOLLOWS BELLOW AND SOME NOTES WRITTEN TO THE FUTURE ME THIS CODE CAN NEEDS IMPROVEMENTS]
+## Example Images
 
 ![Alt text](/sample_results/0.png)
 
@@ -115,12 +115,9 @@
 ###   from merge sort and insertion sort and it works well with different kinds of
 ###   data sets.
 
-### > implement or make use of edge detection before sorting ;) cook an art tool
+### > implement or make use of edge detection before sorting ;)
 ### > debug and reslove RUNTIMEERRORS for two sorting criteria methods.
 ### > fix methods and rethink the design of the code structure.
-### > implement a squre and circle sorter.
+### > implement a square and circle sorter.
 ### > then use SIFT or SURF for object detection and sort the objects identified.
 ### > also it would be cool to sort people or faces, this is possible through obj detection.
-
-## I FEXED IT DURING MY HECTIC SCHEDULE THE TIMING WAS OFF
-# THEY YET TO COME THOUGH ... 
