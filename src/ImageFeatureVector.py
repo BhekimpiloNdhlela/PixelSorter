@@ -124,10 +124,6 @@ class ImageFeatureVector(object):
         return self.img.shape[2] != 0
 
     def get_criteria_data(self):
-        '''
-        my name oi u bhejlo mpi;o ewhf jsdhfjkh sdajfhjsdajkfkj jsdhfjk safh sdajf hkhf # HACK: k
-        dsjkfhkjdsh sdjfh sdkjfh kjsdahfjksadfh ksdjafh sdkajfh sdajkfhkjsdafh
-        '''
         return self.criteria_data
 
     def get_pixel_data(self):
