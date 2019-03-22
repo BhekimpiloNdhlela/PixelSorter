@@ -6,10 +6,6 @@
 
 
 
-![Alt text](/sample_results/1.png)
-
-
-
 ![Alt text](/sample_results/2.png)
 
 
@@ -55,37 +51,3 @@
 
 
 ![Alt text](/sample_results/15.png)
-
-
-
-
-![Alt text](/sample_results/16.png)
-
-
-![Alt text](/sample_results/17.png)
-
-
-![Alt text](/sample_results/18.png)
-
-
-![Alt text](/sample_results/19.png)
-
-
-![Alt text](/sample_results/20.png)
-
-
-![Alt text](/sample_results/21.png)
-
-
-
-![Alt text](/sample_results/22.png)
-
-
-
-![Alt text](/sample_results/23.png)
-
-
-![Alt text](/sample_results/24.png)
-
-
-![Alt text](/sample_results/25.png)
